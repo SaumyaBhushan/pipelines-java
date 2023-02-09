@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/saumya0781/DCT-Devops/_apis/build/status/SaumyaBhushan.pipelines-java?branchName=main)](https://dev.azure.com/saumya0781/DCT-Devops/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
